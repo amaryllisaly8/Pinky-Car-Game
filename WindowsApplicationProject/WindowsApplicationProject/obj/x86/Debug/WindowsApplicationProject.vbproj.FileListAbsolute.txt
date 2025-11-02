@@ -1,0 +1,18 @@
+c:\users\lyngr\onedrive\documents\visual studio 2010\Projects\WindowsApplicationProject\WindowsApplicationProject\obj\x86\Debug\WindowsApplicationProject.Form1.resources
+c:\users\lyngr\onedrive\documents\visual studio 2010\Projects\WindowsApplicationProject\WindowsApplicationProject\obj\x86\Debug\WindowsApplicationProject.Resources.resources
+c:\users\lyngr\onedrive\documents\visual studio 2010\Projects\WindowsApplicationProject\WindowsApplicationProject\obj\x86\Debug\WindowsApplicationProject.vbproj.GenerateResource.Cache
+c:\users\lyngr\onedrive\documents\visual studio 2010\Projects\WindowsApplicationProject\WindowsApplicationProject\bin\Debug\WindowsApplicationProject.exe
+c:\users\lyngr\onedrive\documents\visual studio 2010\Projects\WindowsApplicationProject\WindowsApplicationProject\bin\Debug\WindowsApplicationProject.pdb
+c:\users\lyngr\onedrive\documents\visual studio 2010\Projects\WindowsApplicationProject\WindowsApplicationProject\bin\Debug\WindowsApplicationProject.xml
+c:\users\lyngr\onedrive\documents\visual studio 2010\Projects\WindowsApplicationProject\WindowsApplicationProject\obj\x86\Debug\WindowsApplicationProject.exe
+c:\users\lyngr\onedrive\documents\visual studio 2010\Projects\WindowsApplicationProject\WindowsApplicationProject\obj\x86\Debug\WindowsApplicationProject.xml
+c:\users\lyngr\onedrive\documents\visual studio 2010\Projects\WindowsApplicationProject\WindowsApplicationProject\obj\x86\Debug\WindowsApplicationProject.pdb
+C:\Users\lyngr\OneDrive\Desktop\PROJECT_PROG2\WindowsApplicationProject\WindowsApplicationProject\obj\x86\Debug\WindowsApplicationProject.exe
+C:\Users\lyngr\OneDrive\Desktop\PROJECT_PROG2\WindowsApplicationProject\WindowsApplicationProject\obj\x86\Debug\WindowsApplicationProject.xml
+C:\Users\lyngr\OneDrive\Desktop\PROJECT_PROG2\WindowsApplicationProject\WindowsApplicationProject\obj\x86\Debug\WindowsApplicationProject.pdb
+C:\Users\lyngr\OneDrive\Desktop\PROJECT_PROG2\WindowsApplicationProject\WindowsApplicationProject\bin\Debug\WindowsApplicationProject.exe
+C:\Users\lyngr\OneDrive\Desktop\PROJECT_PROG2\WindowsApplicationProject\WindowsApplicationProject\bin\Debug\WindowsApplicationProject.pdb
+C:\Users\lyngr\OneDrive\Desktop\PROJECT_PROG2\WindowsApplicationProject\WindowsApplicationProject\bin\Debug\WindowsApplicationProject.xml
+C:\Users\lyngr\OneDrive\Desktop\PROJECT_PROG2\WindowsApplicationProject\WindowsApplicationProject\obj\x86\Debug\WindowsApplicationProject.Form1.resources
+C:\Users\lyngr\OneDrive\Desktop\PROJECT_PROG2\WindowsApplicationProject\WindowsApplicationProject\obj\x86\Debug\WindowsApplicationProject.Resources.resources
+C:\Users\lyngr\OneDrive\Desktop\PROJECT_PROG2\WindowsApplicationProject\WindowsApplicationProject\obj\x86\Debug\WindowsApplicationProject.vbproj.GenerateResource.Cache
